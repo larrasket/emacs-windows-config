@@ -1,0 +1,395 @@
+{
+	"98874724": {
+		"className": "Proxy",
+		"data": {
+			"bypassFPForPAC": true,
+			"color": "#0055E5",
+			"configUrl": "",
+			"credentials": "U2FsdGVkX19tzBepG9jYcIWSJgRFWZCxqwwGgO1FHGs=",
+			"cycle": false,
+			"enabled": true,
+			"host": "127.0.0.1",
+			"id": "98874724",
+			"ipPatterns": [],
+			"isSocks": true,
+			"name": "127.0.0.1:9051",
+			"notes": "",
+			"notifOnError": true,
+			"notifOnLoad": true,
+			"pac": "",
+			"patterns": [
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "aljazeera",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "www.madamasr.com",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "medium.com",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "aarab48",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "arab48",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "alaraby",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "8san",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "trtarabi",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "cdhost",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "arcommunistslib",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "raialyoum",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "isocpp",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "akhbar",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "ultrasawt",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "alquds",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": " https://facebookcorewwwi.onion",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "arabi21",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "eipss-eg.org",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "mada31.appspot.com",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": false,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "7iber.com",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "https://www.7iber.com/",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "noon",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "sasapost",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "https://revsoc.me/",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "sahabmedia",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "regexp",
+						"url": "almodon.com",
+						"whitelist": "Inclusive"
+					}
+				},
+				{
+					"className": "ProxyPattern",
+					"data": {
+						"enabled": true,
+						"name": "Untitled pattern",
+						"regex": "",
+						"temp": false,
+						"type": "wildcard",
+						"url": "almanassa.com",
+						"whitelist": "Inclusive"
+					}
+				}
+			],
+			"port": "9050",
+			"readonly": false,
+			"reloadPAC": false,
+			"reloadPACInterval": "60",
+			"socks": "5",
+			"type": "manual",
+			"useDns": false
+		}
+	},
+	"default": {
+		"className": "Proxy",
+		"data": {
+			"bypassFPForPAC": false,
+			"color": "#0000ff",
+			"configUrl": "",
+			"credentials": "U2FsdGVkX1+oIxBuSe6ql8SjKJjB0Wk+7CIuaF5wnnI=",
+			"cycle": false,
+			"dns": "",
+			"enabled": true,
+			"host": "",
+			"id": "default",
+			"ipPatterns": [],
+			"isSocks": false,
+			"login": "",
+			"name": "Default",
+			"notes": "These are the settings that are used when no patterns match an URL",
+			"notifOnError": false,
+			"notifOnLoad": false,
+			"pac": "",
+			"pass": "",
+			"patterns": [],
+			"port": "",
+			"readonly": true,
+			"reloadPAC": false,
+			"reloadPACInterval": "60",
+			"socks": "5",
+			"type": "direct",
+			"useDns": false
+		}
+	},
+	"google-analytics.analytics.user-id": "91ccb432-e0d4-4a23-a50b-d3e3e5d9d3c4",
+	"proxyList": [
+		"98874724",
+		"default"
+	],
+	"settings": {
+		"animateIcon": true,
+		"enabledQA": false,
+		"patternNameQA": "Dynamic QuickAdd Pattern",
+		"patternTemplateQA": "*://${3}${6}/*",
+		"patternTemporaryQA": false,
+		"patternTypeQA": "wildcard",
+		"patternWhitelistQA": "Inclusive",
+		"showContextMenu": true,
+		"showUpdates": true,
+		"sk": "6bf062b8e98c856d336f4e8780b8ddd7",
+		"usageOptOut": false,
+		"useAdvancedMenus": false,
+		"useSyncStorage": false
+	}
+}
