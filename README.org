@@ -8,3 +8,8 @@ to Windowsw, includes a lot of other utilities. I considerd publishing this conf
 for public because it was a quite hard job to get this Emacs distribution to work, I'd to go
 through a lot of problems with envs, PATH, and Windows binaries. However, I don't have the
 time to clean nor document it. Hopefully it would help someone, somehow. Even if it was just me.
+
+* 30, August, 2022 Update
+
+I decided to add all my emacs configuration in this repo, alongside with the Windows
+configuration, the main configuration can be found under [[file:etc/][/etc/]].
