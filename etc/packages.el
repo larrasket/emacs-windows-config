@@ -148,7 +148,6 @@
 (unpin! org-roam)
 (package! org-roam-ui)
 (package! org-wild-notifier)
-
 (package! awqat
   :recipe (:host github
            :repo "zkry/awqat"))
@@ -159,3 +158,7 @@
 (package! org-bullets)
 
 (package! writeroom-mode)
+
+(package! minimal-theme)
+(package! humanoid-themes)
+
