@@ -2,27 +2,42 @@
 # name: pr
 # key: pr
 # --
-#include <algorithm>
-#include <array>
-#include <climits>
-#include <cmath>
-#include <deque>
-#include <iomanip>
+
+
+/*
+* Problem: $1
+* Tags: $2
+*/
+
 #include <iostream>
-#include <iterator>
+#include <array>
 #include <list>
-#include <map>
-#include <numeric>
 #include <queue>
 #include <set>
-#include <stack>
-#include <string>
-#include <tuple>
-#include <unordered_map>
+#include <map>
 #include <unordered_set>
+#include <unordered_map>
 #include <vector>
-#define begend(v) ((v).begin()), ((v).end())
-#define sz(v) ((int)((v).size()))
+#include <stack>
+#include <iterator>
+#include <algorithm>
+#include <climits>
+#include <numeric>
+#include <string>
+#include <deque>
+#include <cmath>
+#include <tuple>
+#include <iomanip>
+#define begend(v)				((v).begin()), ((v).end())
+#define sz(v)				((int)((v).size()))
 using namespace std;
-typedef pair<int, int> pi;
-priority_queue<pi, vector<pi>, greater<pi>> pq;
+
+
+
+
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+}
